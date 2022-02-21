@@ -10,3 +10,4 @@ A C++ Program of the modified snake game
 * Game over when the head hits the border or itself
 
 ### Modified Snake Game
+[x] 

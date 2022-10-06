@@ -1,10 +1,12 @@
-# Modified-Snake-Game
+# Modified Snake Game
 A C++ program that modifies the snake game by generating invisible fruits with point variants, a scoreboard, and game over.
 
 ## How to install & run
-Clone the repository from Github into Microsoft Visual Studio
+Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) </br>
+Clone the repository from Github </br>
+Rebuild Solution
 
-### Original Snake Game
+## Original Snake Game
 * Allow movements from up, left, down, and right ('w', 'a', 's', 'd')
 * Snake has a head and tail
 * Spawns a border in a fixed size
@@ -13,7 +15,7 @@ Clone the repository from Github into Microsoft Visual Studio
 * Game over when the head hits the border or itself
 * User can press 'x' to end the game
 
-### Modified Snake Game
+## Features Added
 - [x] Changed border size
 - [x] Spawns 15 invisible fruits varying with points (+10, +20, +30, +50)
 - [x] Increases tail based on points/10 

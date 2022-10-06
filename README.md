@@ -1,5 +1,8 @@
 # Modified-Snake-Game
-A C++ Program of the modified snake game
+A C++ program that modifies the snake game by generating invisible fruits with point variants, a scoreboard, and game over.
+
+## How to install & run
+Clone the repository from Github into Microsoft Visual Studio
 
 ### Original Snake Game
 * Allow movements from up, left, down, and right ('w', 'a', 's', 'd')

@@ -4,7 +4,7 @@ A C++ program that modifies the snake game by generating invisible fruits with p
 ## How to install & run
 Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) </br>
 Clone the repository from Github </br>
-Rebuild Solution & Run
+Go to Build >> Rebuild Solution & Run </br>
 
 ## Original Snake Game
 * Allow movements from up, left, down, and right ('w', 'a', 's', 'd')

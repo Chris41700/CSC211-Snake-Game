@@ -2,9 +2,9 @@
 A C++ program that modifies the snake game by generating invisible fruits with point variants, a scoreboard, and game over.
 
 ## How to install & run
-Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) </br>
-Clone the repository from Github </br>
-Go to Build >> Rebuild Solution & Run </br>
+- Download [Microsoft Visual Studio](https://visualstudio.microsoft.com/) 
+- Clone the repository from Github 
+- Go to Build >> Rebuild Solution & Run 
 
 ## Original Snake Game
 * Allow movements from up, left, down, and right ('w', 'a', 's', 'd')
